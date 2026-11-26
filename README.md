@@ -1,45 +1,77 @@
+# 👋 Hi, I'm Snehal Borkute
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&duration=2500&pause=800&color=00AEEF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Snehal+Borkute;Computer+Science+Engineer+%F0%9F%92%BB;Full+Stack+Web+Developer+%F0%9F%9A%80;MERN+Stack+Developer+%E2%9A%9B%EF%B8%8F;I+Turn+Ideas+Into+Web+Applications+%F0%9F%92%A1;Always+Learning%2C+Always+Building+%F0%9F%94%A5" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=2500&pause=800&color=00AEEF&center=true&vCenter=true&width=850&lines=Computer+Science+Graduate+%F0%9F%92%BB;Aspiring+Data+Analyst+%F0%9F%93%8A;Aspiring+Data+Scientist+%F0%9F%A4%96;Turning+Data+Into+Meaningful+Insights+%F0%9F%92%A1;Always+Learning%2C+Always+Growing+%F0%9F%9A%80" />
 </p>
-</br>
 
-<!-- <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&duration=2500&pause=800&color=9B59B6&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Snehal+Borkute;Computer+Science+Engineer+%F0%9F%92%BB;Full+Stack+Web+Developer+%F0%9F%9A%80;MERN+Stack+Developer+%E2%9A%9B%EF%B8%8F;I+Turn+Ideas+Into+Web+Applications+%F0%9F%92%A1;Always+Learning%2C+Always+Building+%F0%9F%94%A5" />
-</p> -->
+## 🙋‍♀️ About Me
 
+- 🎓 Computer Science Engineering Graduate.
+- 📊 Passionate about Data Analytics and Data Science.
+- 🐍 Working with Python, SQL, and data analysis libraries.
+- 🤖 Exploring Machine Learning and predictive modeling.
+- 📈 Interested in transforming raw data into meaningful insights.
+- 🌱 Always learning and building practical projects.
 
+## 🛠️ Technical Skills
 
-## 🛠️ Tech Stack
+### 📊 Data Analytics
+- Excel
+- SQL
+- Power BI
+- Exploratory Data Analysis (EDA)
 
-💻 Programming Languages
-Java • C • C++ • Python • JavaScript
+### 🐍 Programming & Data Manipulation
+- Python
+- Pandas
+- NumPy
 
-🎨 Frontend
-HTML • CSS • React
+### 🤖 Machine Learning
+- Scikit-learn
+- Regression & Classification
+- Clustering
+- Feature Engineering
+- Model Evaluation
 
-⚙️ Backend
-Node.js • Express.js
+### 📈 Data Visualization
+- Matplotlib
+- Seaborn
+- Power BI
 
-🗄️ Database
-MongoDB • MySQL • SQL
+### 🌐 Additional Technical Skills
+- HTML
+- CSS
+- JavaScript
+- React
+- Node.js
+- MongoDB
 
-🧠 Problem Solving
-Data Structures & Algorithms (DSA)
+### 🔧 Tools
+- Jupyter Notebook
+- VS Code
+- Git & GitHub
 
-🔧 Tools
-Git • GitHub • VS Code
+## 🚀 Featured Projects
 
-<!--
-**SnehalBorkute/SnehalBorkute** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📊 Data Analysis Projects
+- 📈 Exploratory Data Analysis (EDA)
+- 🤖 Machine Learning Projects
+- 💼 AI-Powered Job Matching System
+- 🗄️ SQL Data Analysis Projects
 
-Here are some ideas to get you started:
+## 📚 Currently Learning
+- Advanced SQL
+- Data Analysis
+- Machine Learning
+- Real-world Data Science Applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect With Me
+
+- LinkedIn: Add your LinkedIn profile
+- GitHub: https://github.com/SnehalBorkute
+
+---
+
+<p align="center">
+  💡 Turning Data into Insights, One Project at a Time!
+</p>
