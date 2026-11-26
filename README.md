@@ -7,71 +7,28 @@
 ## 🙋‍♀️ About Me
 
 - 🎓 Computer Science Engineering Graduate.
-- 📊 Passionate about Data Analytics and Data Science.
+- 📊 Interested in Data Analytics and Data Science.
 - 🐍 Working with Python, SQL, and data analysis libraries.
 - 🤖 Exploring Machine Learning and predictive modeling.
 - 📈 Interested in transforming raw data into meaningful insights.
-- 🌱 Always learning and building practical projects.
+- 🌱 Always learning and improving my technical skills.
 
 ## 🛠️ Technical Skills
 
 ### 📊 Data Analytics
-- Excel
-- SQL
-- Power BI
-- Exploratory Data Analysis (EDA)
+Excel • SQL • Power BI • Exploratory Data Analysis (EDA)
 
 ### 🐍 Programming & Data Manipulation
-- Python
-- Pandas
-- NumPy
+Python • Pandas • NumPy
 
 ### 🤖 Machine Learning
-- Scikit-learn
-- Regression & Classification
-- Clustering
-- Feature Engineering
-- Model Evaluation
+Scikit-learn • Regression • Classification • Clustering • Feature Engineering • Model Evaluation
 
 ### 📈 Data Visualization
-- Matplotlib
-- Seaborn
-- Power BI
+Matplotlib • Seaborn • Power BI
 
 ### 🌐 Additional Technical Skills
-- HTML
-- CSS
-- JavaScript
-- React
-- Node.js
-- MongoDB
+HTML • CSS • JavaScript • React • Node.js • MongoDB
 
 ### 🔧 Tools
-- Jupyter Notebook
-- VS Code
-- Git & GitHub
-
-## 🚀 Featured Projects
-
-- 📊 Data Analysis Projects
-- 📈 Exploratory Data Analysis (EDA)
-- 🤖 Machine Learning Projects
-- 💼 AI-Powered Job Matching System
-- 🗄️ SQL Data Analysis Projects
-
-## 📚 Currently Learning
-- Advanced SQL
-- Data Analysis
-- Machine Learning
-- Real-world Data Science Applications
-
-## 📫 Connect With Me
-
-- LinkedIn: Add your LinkedIn profile
-- GitHub: https://github.com/SnehalBorkute
-
----
-
-<p align="center">
-  💡 Turning Data into Insights, One Project at a Time!
-</p>
+Jupyter Notebook • VS Code • Git • GitHub
